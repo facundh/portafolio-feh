@@ -14,7 +14,7 @@ const Navbar = () => {
             <h3 className='font-bold text-xl'>Junior React Developer</h3>
         </div>
         <div className='hidden md:flex'>
-            <ul className='hidden md:flex '>
+            <ul className='hidden md:flex'>
                 <li>Home</li>
                 <li>About</li>
                 <li>Skills</li>
