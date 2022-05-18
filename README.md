@@ -2,7 +2,7 @@
 React JS Portfolio
 Contenido y características.
 
-Portfolio personal con alguno de los proyectos realziados con react en donde pongo en practica mis conocimientos
+Portfolio personal con alguno de los proyectos realizados con react en donde pongo en practica mis conocimientos
 
 
 Instalación 🔧.
